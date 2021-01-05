@@ -3,14 +3,14 @@
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 @font-face {
-    font-family: "FontAwesome";
-    src: url('../fonts/fontawesome-webfont.woff2') format('woff');
+    font-family: "FluentSystemIcons-Filled";
+    src: url('../fonts/FluentSystemIcons-Filled.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
 .fa {
     display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
+    font: normal normal normal 14px/1 FluentSystemIcons-Filled;
     font-size: inherit;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
@@ -1002,7 +1002,7 @@
     content: "\f127";
 }
 .fa-question:before {
-    content: "\f128";
+    content: "\f643";
 }
 .fa-info:before {
     content: "\f129";

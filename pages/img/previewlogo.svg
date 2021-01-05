@@ -12,7 +12,7 @@
    width="2629"
    height="500"
    viewBox="0 0 2629 500"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="previewlogo.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata839">
@@ -126,13 +126,14 @@
      inkscape:window-height="705"
      id="namedview835"
      showgrid="false"
-     inkscape:zoom="0.41986485"
-     inkscape:cx="859.96893"
-     inkscape:cy="181.33764"
+     inkscape:zoom="1.7791439"
+     inkscape:cx="327.56605"
+     inkscape:cy="296.21379"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -144,11 +145,11 @@
      inkscape:label="Image 1"
      style="display:inline">
     <path
-       style="fill:#0066ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#008800;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 395.85963,439.34078 c 0,0 0,0 -15.39958,-315.23833 0,0 0,0 -237.3346,-3.62343 0,0 0,0 -5.43514,340.60233 256.3576,-21.74057 258.16932,-21.74057 258.16932,-21.74057 z"
        id="path892" />
     <path
-       style="fill:#0055d4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#005500;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 143.12545,120.47902 -9.96443,8.15271 -19.023,-3.62343 -19.928864,310.70905 43.481154,25.364"
        id="path900" />
   </g>
@@ -158,16 +159,16 @@
      inkscape:label="Image 2">
     <text
        xml:space="preserve"
-       style="font-size:147.784px;line-height:1.25;font-family:'GoAnimate 2006';-inkscape-font-specification:'GoAnimate 2006, ';fill:#ffffff;fill-opacity:1;stroke-width:1.10838"
+       style="font-size:147.784px;line-height:0.75;font-family:'GoAnimate 2006';-inkscape-font-specification:'GoAnimate 2006, ';fill:#ffffff;fill-opacity:1;stroke-width:1.10838"
        x="178.31055"
        y="280.00269"
        id="text897"
        transform="scale(0.98462928,1.0156107)"><tspan
          sodipodi:role="line"
-         id="tspan895"
          x="178.31055"
          y="280.00269"
-         style="stroke-width:1.10838">ws</tspan></text>
+         style="stroke-width:1.10838"
+         id="tspan896">ws</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
